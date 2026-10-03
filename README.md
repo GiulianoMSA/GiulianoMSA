@@ -1,4 +1,4 @@
-Sou o Giuliano, desenvolvedor Front End, estudando para virar Full Stack!
+Sou o Giuliano, desenvolvedor Fullstack.
 
 <!---
 GiulianoMSA/GiulianoMSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
